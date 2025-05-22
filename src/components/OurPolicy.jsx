@@ -5,7 +5,7 @@ import { FaHeadphones } from "react-icons/fa";
 
 const OurPolicy = () => {
     return (
-        <div className='flex flex-col sm:grid grid-cols-[1fr_1fr_1fr] gap-14 my-10'>
+        <div className='flex flex-col sm:grid grid-cols-[1fr_1fr_1fr] gap-12 py-20 text-gray-700'>
             <div className='text-center'>
                 <RiExchangeFundsFill className='text-5xl mx-auto mb-5' />
                 <p className='font-semibold'>Easy Exchange Policy</p>
