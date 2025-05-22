@@ -1,0 +1,11 @@
+.desktopMenu li a.active hr {
+    display: block;
+}
+
+/* Media Query for Navbar */
+@media screen and (max-width: 640px) {
+    .mobileMenu li a.active {
+        background: #000000;
+        color: #ffffff;
+    }
+}
